@@ -333,3 +333,22 @@
 //        Hello();   // calling function
 //    }
 //}
+
+//    COLLECTIONS
+// array
+//int[] nums = { 1,2,3,4,5,6};
+//foreach (int n in nums)
+//    Console.WriteLine(n);
+
+//string[] names = new string[2];
+//names[0] = "indran";
+//names[1] = "siyad";
+
+//  LIST
+//List<int> nums = new List<int>();
+//nums.Add(10);
+//nums.Add(15);
+//nums.Remove(0);
+//Console.WriteLine(nums);
+
+
